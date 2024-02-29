@@ -77,8 +77,7 @@ enum ST_VIN_STATE {
 #define INCORR_PARAM 0xFF
 
 #define KVBAT 6.6
-#define KVIN 36.3
-
+#define KVIN 26.11
 
 class PM01_PowerModule {
 public:
